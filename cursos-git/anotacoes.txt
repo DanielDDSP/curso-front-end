@@ -48,12 +48,3 @@ pegar todas as informações do git master utilizando git rebase "nome da branch
 Após realizar todas as alterçaões necessárias, enviar para o branch master, utilizando git merge "nome da branch local".
 depois mandar para o repositório git push.
 
-
-
-
-
-=======
---------------------------------Teste Cherry-pick------------------------------
-testet
-testet
->>>>>>> desenvolvimento
