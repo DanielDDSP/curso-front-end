@@ -41,7 +41,7 @@ Sempre criar uma branch "master" que vai receber todos os commits
 Para cada desenvolvedor e/ou funcionalidades novas, criar uma nova branch git branch -b "nome da branch"
 depois que commitar na branch local do desenvolvimento enviar para a branch master
 após o commit na branch local, ir para a branch master e verificar se há commits com git pull
-
+pegar todas as informações do git master utilizando git rebase "nome da branch"
 
 
 
