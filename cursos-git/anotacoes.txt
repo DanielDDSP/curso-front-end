@@ -49,5 +49,5 @@ Após realizar todas as alterçaões necessárias, enviar para o branch master, 
 depois mandar para o repositório git push.
 
 
---------------------------------Teste Cherry-pick------------------------------
+
 
