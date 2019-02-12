@@ -51,3 +51,9 @@ depois mandar para o repositório git push.
 
 
 
+
+=======
+--------------------------------Teste Cherry-pick------------------------------
+testet
+testet
+>>>>>>> desenvolvimento
