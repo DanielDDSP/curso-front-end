@@ -37,7 +37,7 @@ git merge "nome da branch" - para fzer o merge
 git checkout "nome do arquivo" - retorna a antiga versão do arquivo, antes de sido add e commitado.
 git reset HEAD "nome do arquivo" - quando commitou algo e deseja voltar para a versão anterior. dps usa o comando git checkout "nome do arquivo"
 
-fsadfsaf
+fsadfsafsdas
 
 --------------------------------Boas praticas do git------------------------------
 Sempre criar uma branch "master" que vai receber todos os commits
