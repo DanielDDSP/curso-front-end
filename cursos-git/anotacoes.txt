@@ -36,6 +36,7 @@ git rebase "nome da branch que tem atualizações" "nome da outra branch q quer 
 git merge "nome da branch" - para fzer o merge
 git checkout "nome do arquivo" - retorna a antiga versão do arquivo, antes de sido add e commitado.
 git reset HEAD ou o a rash do commit ex"8944c8457379470aa8185093168ac614945f1de0" "nome do arquivo" - quando commitou algo e deseja voltar para a versão anterior. dps usa o comando git checkout "nome do arquivo"
+git cherry-pick "rash do commit" - para fazer merge na branch com o commit que deseja, assim não colocando todos os commits.
 
 
 --------------------------------Boas praticas do git------------------------------
