@@ -42,6 +42,8 @@ Para cada desenvolvedor e/ou funcionalidades novas, criar uma nova branch git br
 depois que commitar na branch local do desenvolvimento enviar para a branch master
 após o commit na branch local, ir para a branch master e verificar se há commits com git pull
 pegar todas as informações do git master utilizando git rebase "nome da branch"
+Após realizar todas as alterçaões necessárias, enviar para o branch master, utilizando git merge "nome da branch local".
+depois mandar para o repositório git push.
 
 
 
