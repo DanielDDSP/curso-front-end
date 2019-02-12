@@ -27,6 +27,7 @@ git push "nome do repositório" master - manda as alterações para o repositór
 git branch - mostra todas as branchs
 git branch "nome da branch" - cria uma nova branch
 git checkout "nome da branch" - para mudar de branch
+git checkout -b "nome da branch" - Cria a branch e ja entra nela 
 git pull "nome do repositório" "nome da branch" - para atualizar os repositórios locais e remotos, respectivamente.
 git branch -r - ver as branchs e repositórios
 git mergetool --tool-help - Mostra os programas de interface gráfica para merge
