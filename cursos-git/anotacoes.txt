@@ -34,6 +34,8 @@ git mergetool --tool-help - Mostra os programas de interface gráfica para merge
 git mergetool -t "nome do programa" - para instalar interface gráfica de merge
 git rebase "nome da branch que tem atualizações" "nome da outra branch q quer atualizar"- atualiza uma branch com base de outra
 git merge "nome da branch" - para fzer o merge
+git checkout "nome do arquivo" - retorna a antiga versão do arquivo, antes de sido add e commitado.
+
 
 
 --------------------------------Boas praticas do git------------------------------
