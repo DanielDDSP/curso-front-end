@@ -29,7 +29,7 @@ git branch "nome da branch" - cria uma nova branch
 git checkout "nome da branch" - para mudar de branch
 git pull "nome do repositório" "nome da branch" - para atualizar os repositórios locais e remotos, respectivamente.
 git branch -r - ver as branchs e repositórios
-git mergetool -t "nome do programa" - para instalar interface gráfica de merge
+git mergetool -t "nome do programa" - para instalar interface gráfica de mergE
 
 s
 
